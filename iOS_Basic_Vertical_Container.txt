@@ -1,0 +1,70 @@
+{
+  "name": "projectroot",
+  "children": [
+    {
+      "type": "ContainerVertical",
+      "name": "Login",
+      "sizeH": "97%",
+      "sizeV": "97%",
+      "marginL":"1%",
+      "marginT":"1%",
+      "borderColor":"Blue",
+      "borderSize":"0.5%",
+      "fontName": "Arial",
+      "children": [
+       {
+          "type": "Label",
+          "name": "basicVertical",
+          "value": "Basic Vertical",
+          "alignText": "Mid",
+          "sizeH": "100%",
+          "sizeV": "0%",
+          "fontColor": "Black",
+          "fontSize": "0.1in"
+        },
+        {
+       	"type": "ContainerVertical",
+       	"name": "login_page",
+       	"backColor": "Red",
+      	"marginL":"10%", 
+      	"marginT":"2%", 
+      	"marginB":"5%",  
+      	"sizeH": "50%",
+       	"sizeV": "25%",
+       	"fontName": "Arial",
+       	"borderSize":"1.5%",
+       	"borderColor":"Blue",
+          "borderRadius":"5%"
+    },
+      {
+       	"type": "ContainerVertical",
+       	"name": "login_page",
+       	"backColor": "Red",
+      	"marginL":"40%", 
+      	"marginT":"2%", 
+      	"marginB":"0%",  
+      	"sizeH": "25%",
+       	"sizeV": "25%",
+       	"fontName": "Arial",
+       	"borderSize":"5%",
+       	"borderColor":"Black",
+         "borderRadius":"10%"
+    },
+          {
+       	"type": "ContainerVertical",
+       	"name": "login_page",
+       	"backColor": "#FFECE51A",
+      	"marginL":"45%", 
+      	"marginT":"2%", 
+      	"marginB":"0%",  
+      	"sizeH": "50%",
+       	"sizeV": "25%",
+       	"fontName": "Arial",
+       	"borderSize":"0.99%",
+       	"borderColor":"#FF9E8787",
+         "borderRadius":"0.995%"
+    }
+        ]
+    }
+    ]
+}

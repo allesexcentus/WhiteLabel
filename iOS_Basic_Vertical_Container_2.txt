@@ -1,0 +1,137 @@
+{
+  "name": "projectroot",
+  "children": [
+    {
+      "type": "ContainerVertical",
+      "name": "Login",
+      "sizeH": "80%",
+      "sizeV": "95%",
+      "borderSize": "0.2%",
+      "borderColor": "Black",
+      "borderRadius": "0.5%",
+      "marginL": "7.5%",
+      "marginR": "7.5%",
+      "textFont": "Arial",
+      "children": [
+        {
+          "type": "ContainerVertical",
+          "name": "Login",
+          "sizeH": "100%",
+          "sizeV": "100%",
+          "borderSize": "0.2%",
+          "backColor": "Green",
+          "textFont": "Arial",
+          "children": [
+            {
+              "type": "ContainerVertical",
+              "name": "login_page",
+              "backColor": "Red",
+              "marginL": "10%",
+              "marginT": "5%",
+              "marginB": "5%",
+              "sizeH": "50%",
+              "sizeV": "25%",
+              "textFont": "Arial",
+              "borderSize": "1.5%",
+              "borderColor": "Blue"
+            },
+            {
+              "type": "ContainerVertical",
+              "name": "login_page21",
+              "backColor": "#FFFAFA0F",
+              "marginL": "50%",
+              "marginT": "5%",
+              "marginB": "0%",
+              "sizeH": "25%",
+              "sizeV": "25%",
+              "textFont": "Arial",
+              "borderSize": "1%",
+              "borderColor": "Red"
+            },
+            {
+              "type": "ContainerVertical",
+              "name": "login_page1",
+              "backColor": "",
+              "marginL": "55%",
+              "marginT": "5%",
+              "marginB": "0%",
+              "sizeH": "35%",
+              "sizeV": "25%",
+              "textFont": "Arial",
+              "borderSize": "1%",
+              "borderColor": "Blue"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}{
+  "name": "projectroot",
+  "children": [
+    {
+      "type": "ContainerVertical",
+      "name": "Login",
+      "sizeH": "80%",
+      "sizeV": "95%",
+      "borderSize": "0.2%",
+      "borderColor": "Black",
+      "borderRadius": "0.5%",
+      "marginL": "7.5%",
+      "marginR": "7.5%",
+      "textFont": "Arial",
+      "children": [
+        {
+          "type": "ContainerVertical",
+          "name": "Login",
+          "sizeH": "100%",
+          "sizeV": "100%",
+          "borderSize": "0.2%",
+          "backColor": "Green",
+          "textFont": "Arial",
+          "children": [
+            {
+              "type": "ContainerVertical",
+              "name": "login_page",
+              "backColor": "Red",
+              "marginL": "10%",
+              "marginT": "5%",
+              "marginB": "5%",
+              "sizeH": "50%",
+              "sizeV": "25%",
+              "textFont": "Arial",
+              "borderSize": "1.5%",
+              "borderColor": "Blue"
+            },
+            {
+              "type": "ContainerVertical",
+              "name": "login_page21",
+              "backColor": "#FFFAFA0F",
+              "marginL": "50%",
+              "marginT": "5%",
+              "marginB": "0%",
+              "sizeH": "25%",
+              "sizeV": "25%",
+              "textFont": "Arial",
+              "borderSize": "1%",
+              "borderColor": "Red"
+            },
+            {
+              "type": "ContainerVertical",
+              "name": "login_page1",
+              "backColor": "",
+              "marginL": "55%",
+              "marginT": "5%",
+              "marginB": "0%",
+              "sizeH": "35%",
+              "sizeV": "25%",
+              "textFont": "Arial",
+              "borderSize": "1%",
+              "borderColor": "Blue"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

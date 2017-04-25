@@ -1,0 +1,50 @@
+{
+  "name": "digitalPunchCard",
+  "children": [
+               {
+               "type": "ContainerVertical",
+               "name": "MaxSize",
+               "sizeH" : "2i",
+               "sizeV" : "3i",
+               "backColor": "Green",
+               "children": [
+                            {
+                            "type": "ContainerHorizontal",
+                            "name": "minConH",
+                            "sizeV": "0.5i",
+                            "sizeH": "50%",
+                            "minSizeH" : "1.5i",
+                            "backColor": "Blue"
+                            
+                            },
+                            {
+                            "type": "ContainerHorizontal",
+                            "name": "maxConH",
+                            "sizeV": "0.5i",
+                            "sizeH": "50%",
+                            "maxSizeH" : "0.5i",
+                            "backColor": "Red"
+                            
+                            },
+                            {
+                            "type": "ContainerHorizontal",
+                            "name": "minConV",
+                            "sizeV": "50%",
+                            "sizeH": "50%",
+                            "minSizeV" : "2i",
+                            "backColor": "Purple"
+                            
+                            },
+                            {
+                            "type": "ContainerHorizontal",
+                            "name": "maxConV",
+                            "sizeV": "50%",
+                            "sizeH": "50%",
+                            "maxSizeV" : "1i",
+                            "backColor": "Black"
+                            
+                            }
+                            ]
+               }
+    ]
+}
